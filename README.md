@@ -20,3 +20,10 @@ func main() {
 	fmt.Println(strings.Join(results[6:], " "))
 }
 ```
+
+Result
+
+```text
+⚁ ⚀ ⚅ ⚃ ⚅ ⚂
+一秀
+```
